@@ -186,4 +186,19 @@
     .text h3{
         font-size: 2em;
     }
+
+    .showcase.active{
+        right:200px;
+    }
+
+    .menu{
+        position: absolute;
+        top: 0;
+        right: 0;
+        width:200px;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }
